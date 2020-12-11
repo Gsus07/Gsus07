@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->### My Github Stats
-![Github Stats for Gsus07](https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&hide_border=true&title_color=003049&icon_color=bbb&bg_color=ffffff)"
+-->
+### My Github Stats
+![Github Stats for Gsus07](https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsus07&layout=compact&hide_border=true&theme=dark)
