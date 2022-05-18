@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Github Stats
+![Github Stats for Gsus07](https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp; 
@@ -47,8 +50,5 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider)
-
-### My Github Stats
-![Github Stats for Gsus07](https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsus07&layout=compact&hide_border=true&theme=dark)
