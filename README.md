@@ -1,54 +1,83 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Jesus Andres</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Lover</h3>
 
-<!--
-**Gsus07/Gsus07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Gsus07">
+    <img src="https://komarev.com/ghpvc/?username=Gsus07&label=Profile%20views&color=0e75b6&style=flat" alt="Gsus07" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-### My Github Stats
-![Github Stats for Gsus07](https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+- 🔭 Currently working on **personal & work projects**
+- 🌱 Learning **new technologies and best practices**
+- 💬 Ask me about **React, Angular, SQL Server, APIs**
+- ⚡ Fun fact: *I debug more than I code... but that's part of the game 😅*
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 🌐 &nbsp; 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)
-  ![AngularMaterial](https://img.shields.io/badge/-AngularMaterial-333333?style=flat&logo=MaterialDesign)
+## 📊 GitHub Stats
 
-- 🖥 &nbsp;
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  
-- ⌨ &nbsp;
-  ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
-- 🛢 &nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-  ![OracleDatabase](https://img.shields.io/badge/-Oracle%2018c-333333?style=flat&logo=oracle)
-  ![SQLServer](https://img.shields.io/badge/-Microsoft%20Sql%20Server-333333?style=flat&logo=microsoftsqlserver)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gsus07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsus07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
-  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider)
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsus07&layout=compact&hide_border=true&theme=dark)
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,materialui" />
+</p>
+
+### 🖥 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### ⌨ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
+
+### 🛢 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-333333?style=flat&logo=oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoftsqlserver" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/Rider-333333?style=flat&logo=rider" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gsus07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="mailto:tuemail@correo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *“Code, learn, improve… repeat.”*
